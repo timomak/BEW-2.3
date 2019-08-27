@@ -1,3 +1,3 @@
 # BEW 2.3 Notes
 
-> An awesome project.
+Github ([link](https://github.com/Make-School-Courses/bew-2.3-web-security))
